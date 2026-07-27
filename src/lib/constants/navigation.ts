@@ -11,6 +11,6 @@ export const FOOTER_LINKS = [
   { label: "Now", href: "/now" },
   { label: "Projects", href: "/#projects" },
   { label: "Blog", href: "/blog" },
-  { label: "GitHub", href: "https://github.com/priyankadas", external: true },
-  { label: "LinkedIn", href: "https://linkedin.com/in/priyankadas", external: true },
+  { label: "GitHub", href: "https://github.com/PriyankaDas856", external: true },
+  { label: "LinkedIn", href: "https://www.linkedin.com/in/priyanka-das-619b58283/", external: true },
 ] as const;
