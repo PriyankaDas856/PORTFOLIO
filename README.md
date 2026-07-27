@@ -1,138 +1,84 @@
 # Priyanka Das — AI Builder & Product Engineer
 
-<p align="center">
-  <b>AI • Full Stack Development • Product Engineering • UI/UX</b>
-</p>
+A modern personal portfolio website showcasing my projects, skills, experience, and journey in AI, software engineering, and product development.
 
-<p align="center">
-  A modern personal portfolio showcasing my projects, technical skills, experience, and journey as a Computer Science & Business Systems student.
-</p>
+## 🌐 Live Demo
 
-
-## 🌐 Live Website
-
-🔗 Portfolio: https://priyankadas.dev
-
-
-## 📌 About The Project
-
-This portfolio website is designed to present my work at the intersection of:
-
-- Artificial Intelligence
-- Software Engineering
-- Product Development
-- User Experience Design
-
-The goal was to build more than a resume website — a product-like experience where recruiters and visitors can explore my projects, skills, and professional journey interactively.
+https://priyankadas.dev
 
 
 ## ✨ Features
 
-### 🤖 AI Portfolio Assistant
-
-A custom-built AI-style assistant that helps visitors learn about:
-
-- Projects
-- Technical skills
-- Internship experience
-- Achievements
-- Education
-- Contact information
-
-The assistant uses a local knowledge-based response system without requiring external AI APIs.
-
-
-### 🎨 Modern UI/UX
-
-- Responsive design
-- Smooth animations
-- Interactive sections
-- Glassmorphism-inspired components
-- Micro-interactions
-- Dark/light theme support
-
-
-### 🚀 Project Showcase
-
-Each project includes:
-
-- Problem statement
-- Solution overview
-- Technology stack
-- Impact
-- Links and details
-
-
-### 📩 Contact System
-
-Includes:
-
-- Contact form
-- Email integration
-- Social links
+- Modern responsive portfolio design
+- Animated UI with smooth interactions
+- AI-powered portfolio assistant
+- Project showcase with case studies
+- Experience timeline
+- Contact form integration
 - Resume access
 
 
 ## 🛠️ Tech Stack
-
-### Frontend
 
 - Next.js 15
 - React
 - TypeScript
 - Tailwind CSS
 - Framer Motion
-- Lucide React
+- Lucide Icons
 
 
-### Tools
+## 🚀 Getting Started
 
-- Git & GitHub
-- VS Code
-- Figma
+Clone the repository:
 
+```bash
+git clone https://github.com/PriyankaDas856/PORTFOLIO.git
 
-### Technologies Used Across Projects
+Install dependencies:
 
-- Python
-- Java
-- C++
-- JavaScript
-- FastAPI
-- Node.js
-- PostgreSQL
-- Supabase
-- MongoDB
-- AI/ML frameworks
+npm install
 
+Run locally:
 
-## 📂 Project Structure
+npm run dev
 
+Open:
 
-PORTFOLIO
-│
-├── public
-│ ├── images
-│ └── resume.pdf
-│
-├── src
-│ │
-│ ├── app
-│ │
-│ ├── components
-│ │ ├── home
-│ │ ├── features
-│ │ └── ui
-│ │
-│ ├── lib
-│ │ ├── constants
-│ │ └── data
-│ │
-│ └── types
-│
-├── package.json
-├── tailwind.config.ts
-└── README.md
+http://localhost:3000
+📌 Featured Projects
+🏥 MedPass
 
+AI-powered healthcare passport for:
 
+Medical record management
+QR-based emergency access
+AI-assisted file interpretation
 
+Tech:
+React Native, Next.js, Supabase, PostgreSQL
+
+📊 Skylark BI Agent
+
+AI business intelligence assistant for analyzing operational data.
+
+Tech:
+Python, FastAPI, AI integrations
+
+👩‍💻 About Me
+
+I'm Priyanka Das, a Computer Science & Business Systems student at Jain University, Bangalore.
+
+Interested in:
+
+Artificial Intelligence
+Full Stack Development
+Product Engineering
+UI/UX Design
+📬 Connect
+
+Email: priya18bkj@gmail.com
+
+LinkedIn: https://linkedin.com/in/priyankadas
+
+GitHub: https://github.com/PriyankaDas856
