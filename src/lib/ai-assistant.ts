@@ -54,7 +54,7 @@ const KNOWLEDGE: KnowledgeEntry[] = [
     response:
 `I'm ${SITE.name}, a ${SITE.role} graduating in ${SITE.graduation} from Jain University.
 
-${PROFILE.summary}
+${PROFILE.tagline}
 
 My focus is building AI-powered products that combine engineering, design thinking, and real-world impact.`,
   },
