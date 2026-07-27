@@ -79,6 +79,6 @@ UI/UX Design
 
 Email: priya18bkj@gmail.com
 
-LinkedIn: https://linkedin.com/in/priyankadas
+LinkedIn: https://www.linkedin.com/in/priyanka-das-619b58283/
 
 GitHub: https://github.com/PriyankaDas856
