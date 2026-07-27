@@ -89,7 +89,7 @@ export function HeroDashboard() {
 
               <h1 className="display-heading mb-6 text-zinc-900 dark:text-white leading-[1.05] text-[clamp(3rem,7vw,5.4rem)]">
 
-                Hi, I'm
+               Hi, I&apos;m
 
                 <br />
 
@@ -190,7 +190,7 @@ export function HeroDashboard() {
                   variant="ghost"
                 >
 
-                  Let's Connect
+                  Let&apos;s Connect
 
                 </MagneticButton>
 
