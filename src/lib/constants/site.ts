@@ -21,7 +21,7 @@ export const SITE = {
 
   role: "Computer Science & Business Systems Student",
 
-  resumePath: "/resume.pdf",
+  resumePath: "/Resume_final.pdf",
 
   ogImage: "/og-image.png",
 
